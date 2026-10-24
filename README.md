@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Mary%20Olarewaju&fontSize=42&fontColor=ffffff&desc=ML%20Engineer%20%7C%20NLP%20%26%20Retrieval%20Systems&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Mary%20Olarewaju&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Machine%20Learning%20%26%20AI&descAlignY=68" />
 
 
 

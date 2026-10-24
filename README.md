@@ -28,7 +28,6 @@
 
 
 
-Nigeria · Open to remote roles worldwide
 
 [LinkedIn](https://www.linkedin.com/in/maryolarewaju) · [Email](mailto:maryolarewaju345@gmail.com)
 
